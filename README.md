@@ -1,6 +1,6 @@
 <!-- Animated typing header (GitHub-friendly SVG) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=700&size=30&pause=1200&color=2A9D8F&background=ffffff00&width=800&lines=Hi%20there%2C%20I%27m%20Shujan%20%F0%9F%91%8B%3BA%20passionate%20and%20dedicated%20developer" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=700&size=30&pause=1200&color=2A9D8F&background=ffffff00&width=800&lines=Hi%20there%2C%20I%27m%20Shujan%20%F0%9F%91%8B%3B" alt="Typing SVG"/>
 </p>
 
 
