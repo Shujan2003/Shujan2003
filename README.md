@@ -32,14 +32,12 @@
 
 ---
 
-## 📌 Projects (in the order you requested)
-
-<!-- Project cards: replace image URLs (assets/*.png) with your screenshots stored in the repo -->
+## 📌 Projects
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <img src="assets/spite-basket.png" alt="Spite Basket" width="100%" />
+
       <h3>Spite Basket — MERN Stack</h3>
       <p>
         A MERN app built with React (frontend), Node.js & Express (backend) and MongoDB.
@@ -52,7 +50,7 @@
     </td>
 
     <td width="33%" valign="top">
-      <img src="assets/notes-app.png" alt="Notes App" width="100%" />
+      
       <h3>Notes Application — Spring Boot & React</h3>
       <p>
         Notes app with Spring Boot REST API and React frontend.
@@ -63,7 +61,7 @@
     </td>
 
     <td width="33%" valign="top">
-      <img src="assets/3d-airplane.png" alt="3D Airplane" width="100%" />
+     
       <h3>3D Airplane Flying Simulator — React + Three.js</h3>
       <p>
         Browser-based 3D airplane simulation with physics-like controls, camera movement and environment.
@@ -76,7 +74,7 @@
 
   <tr>
     <td width="33%" valign="top">
-      <img src="assets/weather-app.png" alt="Weather App" width="100%" />
+   
       <h3>Weather Forecast App — Node.js + Modern UI</h3>
       <p>
         Full-stack weather app that fetches real-time data from APIs and displays forecasts with a clean UI.
@@ -86,7 +84,7 @@
     </td>
 
     <td width="33%" valign="top">
-      <img src="assets/speakhive.png" alt="SpeakHive" width="100%" />
+    
       <h3>SpeakHive — Flutter</h3>
       <p>
         Mobile app developed with Flutter. (Add short description of features here — e.g., chat, audio, UI features.)
@@ -96,7 +94,7 @@
     </td>
 
     <td width="33%" valign="top">
-      <img src="assets/clash-of-champions.png" alt="Clash of Champions" width="100%" />
+     
       <h3>Clash of Champions — Python (Pygame)</h3>
       <p>
         A 2D game made using Pygame — custom sprites, collision logic, scoring, and game loop.
@@ -114,28 +112,6 @@
 - Learning more about 3D animation in Blender and polishing game physics.  
 - Experimenting with modern UI patterns and backend design.
 
----
 
-## 🎨 Colors & Styling — quick note
-- I used **shields.io badges** for the tech tags (they're lightweight and GitHub-friendly).  
-- The **typing SVG** provides the animated “typing” effect for your name and short tagline — it is an SVG image so it works on GitHub READMEs.  
-- **Project cards** are basic HTML table cards; they render well on GitHub and let you include screenshots.  
-- Colors on badges are chosen to match each technology's usual branding (React = #61DAFB, Node = #339933, Spring = #6DB33F, etc.) — they give immediate visual cues.
 
----
 
-## 📌 How to get the same look
-1. Save screenshots for each project into `/assets` (or `images`) in the repo.  
-2. Replace the `src="assets/..."` links in the project cards with the paths to your screenshots.  
-3. Paste this markdown into `README.md` and push to GitHub.  
-4. The typing SVG and shields will render automatically.
-
----
-
-If you want, I can:
-- convert these project cards into a **fancier grid** with overlays, or  
-- generate **custom badges** with your preferred colors, or  
-- make a **live preview** (I can provide an HTML file you can open locally to see more styling), or  
-- create an animated **GIF header** (if you want something that’s not SVG).
-
-Which of those would you like next (I’ll just make it for you right away)?
