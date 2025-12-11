@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠️ Tech Stack (Quick Tags)
+## 🛠️ Tech Stack 
 <!-- "TextTag" style badges — change/add as you like -->
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
