@@ -10,8 +10,8 @@
 
 ## 🚀 About Me
 - I enjoy building **full-stack applications**, experimenting with **3D graphics**, and developing interactive experiences.  
-- I learn by creating — the more I build, the more I grow.  
-- I’m dedicated, creative, and I improve my full-stack skills every day. I love game development and 3D animation.
+- I believe growth comes from building, and every project moves me forward. 
+- Driven by creativity and dedication, I push my full-stack skills forward daily—and my passion for game development and 3D animation keeps me inspired.
 
 ---
 
